@@ -1,6 +1,5 @@
 streamlit
+langchain-groq
 langchain
 langchain-community
 langchain-core
-langchain-ollama
-pickle
